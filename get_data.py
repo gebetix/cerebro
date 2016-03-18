@@ -3,7 +3,7 @@ import json
 
 
 def get_images(lat, lon):
-    distance = 200
+    distance = 500
 
     url = "https://api.instagram.com/v1/media/search?lat=%s&lng=%s&distance=%s&client_id=3d56e75ea0ae4b96aa459aa22530a519"
 
