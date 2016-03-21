@@ -1,5 +1,3 @@
-<div align='center'>
 %for image in images:
-    {{!image}}<br>
+    <img src="{{image}}" /> <br/>
 %end
-</div>
