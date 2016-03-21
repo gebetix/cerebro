@@ -1,3 +1,3 @@
 %for image in images:
-    <img src="{{image}}" /> <br/>
+    {{!image}}<br>
 %end
