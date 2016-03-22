@@ -12,4 +12,3 @@ def get_images(lat, lon):
 
     for image in data:
         yield image['images']['standard_resolution']['url']
-
