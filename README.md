@@ -1,5 +1,5 @@
 # Cerebro
-Instagram + Yandex.Maps Api App
+Instagram + Yandex.Maps API App
 
 # Using API's 
  - https://www.instagram.com/developer/
