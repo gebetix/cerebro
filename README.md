@@ -1,4 +1,5 @@
-# Cerebro
+# Cerebro [![Build Status](https://travis-ci.org/gebetix/cerebro.svg?branch=master)](https://travis-ci.org/gebetix/cerebro)
+
 Instagram + Yandex.Maps API App
 
 # Using API's 
