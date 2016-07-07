@@ -5,6 +5,9 @@ Instagram + Yandex.Maps API App
  - https://www.instagram.com/developer/
  - https://tech.yandex.ru/maps/jsapi/
 
+# You will need 
+ - python3
+
 # How to start
 
 git clone
